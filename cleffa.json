@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "patch": "cleffa/flag_0.png",
+        "move": [],
+        "wait": 12.57607913017273
+    },
+    {
+        "patch": "cleffa/flag_1.png",
+        "move": [],
+        "wait": 17.34412670135498
+    },
+    {
+        "patch": "cleffa/flag_2.png",
+        "move": [],
+        "wait": 22.61611294746399
+    },
+    {
+        "patch": "cleffa/flag_3.png",
+        "move": [],
+        "wait": 15.823392391204834
+    },
+    {
+        "patch": "cleffa/flag_4.png",
+        "move": [],
+        "wait": 20.55225682258606
+    },
+    {
+        "patch": "cleffa/flag_5.png",
+        "move": [],
+        "wait": 20.743712902069092
+    }
+]
